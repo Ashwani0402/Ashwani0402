@@ -7,8 +7,7 @@
 <p align="center">
 <a href="https://x.com/Ashurai65632254" target="blank"><img src="https://img.shields.io/badge/X_Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" /></a>
 <a href="https://linkedin.com/in/ashwani--rai" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://kaggle.com/ashwani_rai21" target="blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" /></a>
-<a href="https://leetcode.com/u/uiean9rrkb/" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
+<a href="https://ashwani0402.github.io/ashwani-portfolio/" target="blank"><img src="https://img.shields.io/badge/Portfolio-00E5FF?style=for-the-badge&logo=Web&logoColor=black" alt="Portfolio" /></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=Ashwani0402&label=SYSTEM+ACCESS+COUNT&color=00E5FF&style=for-the-badge" alt="Profile views" />
@@ -21,13 +20,21 @@
 
 - 🔭 **Current Focus:** Big Data Analytics, Machine Learning, and Deep Learning (PG-DBDA @ Sunbeam Pune).
 - 🌱 **Actively Learning:** Advanced Python, C++, SQL, MongoDB, DynamoDB, Big Data (Spark, Hadoop), AI/ML (PyTorch), AWS (S3, Redshift), Kafka, Airflow, Docker, Kubernetes, and CI/CD pipelines.
-- 👨‍💻 **Portfolio Hub:** View my complete mission logs at [ashwani0402.github.io](https://ashwani0402.github.io/ashwani-portfolio/)
 - 💬 **Comms Channel:** Open for discussions on **AI, ML, and Big Data Architecture**.
 - 📫 **Direct Ping:** ashwanirai710@gmail.com
 
 <br>
 
 <div align="center">
+
+### 🏆 // ALGORITHMIC COMBAT & RANKINGS
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/ashwanirai712)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/uiean9rrkb/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/ashwani_rai21)
+[![CDAC Rank](https://img.shields.io/badge/CDAC_C--CAT-AIR_123-FF0055?style=for-the-badge&logo=opslevel&logoColor=white)](#)
+
+---
 
 ### 🛠️ // TECH STACK MATRIX
 
@@ -61,6 +68,14 @@
 
 ---
 
+### ⏱️ // REAL-TIME TERMINAL TELEMETRY
+
+<!--START_SECTION:waka-->
+<!-- WakaTime metrics will automatically populate here via GitHub Actions -->
+<!--END_SECTION:waka-->
+
+---
+
 ### 📊 // NEURAL METRICS & GITHUB ANALYTICS
 
 <p align="center">
@@ -75,7 +90,6 @@
 
 ### 🧬 // CONTRIBUTION ACTIVITY MATRIX
 
-<!-- The animated snake grid will render here once GitHub Actions is configured -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashwani0402/Ashwani0402/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ashwani0402/Ashwani0402/output/github-contribution-grid-snake.svg">
