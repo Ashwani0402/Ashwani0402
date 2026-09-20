@@ -53,3 +53,40 @@ Key Credentials:
   - Gyan Ganga Institute: B-Tech ECE 86% (Lakshay Award & AI Branch Topper)
 Comms Link: ashwanirai710@gmail.com
 Status: Production Deployed • Open for Full Stack AI & Data Engineering Roles
+
+
+---
+
+### 📊 // PERFORMANCE DIAGNOSTICS & GITHUB METRICS
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashwani0402&show_icons=true&theme=synthwave&hide_border=true&title_color=00E5FF&icon_color=FF007F&text_color=FFFFFF&bg_color=0D1117&include_all_commits=true&count_private=true" alt="Ashwani's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashwani0402&theme=synthwave&hide_border=true&background=0D1117&ring=00E5FF&fire=FF007F&currStreakNum=FFFFFF&sideLabels=cbd5e1&dates=cbd5e1" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwani0402&layout=compact&theme=synthwave&hide_border=true&title_color=00E5FF&text_color=FFFFFF&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+<br/>
+
+<details>
+<summary><b>[ VIEW ACADEMIC TELEMETRY : CDAC PGCP-BDA - 87% ]</b></summary>
+<br>
+
+```text
+====================================================================
+[ SYSTEM SCAN ] >> EXTRACTING ACADEMIC TELEMETRY...
+====================================================================
+MODULE NAME                               SCORE        DIAGNOSTIC
+--------------------------------------------------------------------
+[1] Practical Machine Learning          [ 39 / 40 ]  [ ███████████████████░ ] 97.5%
+[2] Python and R Programming            [ 38 / 40 ]  [ ███████████████████░ ] 95.0%
+[3] Data Visualization & Reporting      [ 37 / 40 ]  [ ██████████████████░░ ] 92.5%
+[4] Advance Analytics (Statistics)      [ 35 / 40 ]  [ █████████████████░░░ ] 87.5%
+[5] Linux & Cloud Computing             [ 35 / 40 ]  [ █████████████████░░░ ] 87.5%
+[6] Big Data Technologies               [ 31 / 40 ]  [ ███████████████░░░░░ ] 77.5%
+[7] Java Programming                    [ 27 / 40 ]  [ █████████████░░░░░░░ ] 67.5%
+====================================================================
