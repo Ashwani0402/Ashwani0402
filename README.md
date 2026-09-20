@@ -1,29 +1,34 @@
 <div align="center">
 
+<!-- HERO BANNER / CODER ANIMATION -->
+<img src="https://raw.githubusercontent.com/ABSphinx/ABSphinx/main/gifs/Coding.gif" width="450px" alt="Ashwani Coding at Setup" />
+
 # ⚡ ASHWANI RAI // DATA SCIENCE ENGINEER
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF66&center=true&vCenter=true&width=600&lines=Building+Autonomous+Systems;Architecting+Robust+ETL+Pipelines;Deploying+GenAI+Applications;AI+%7C+Machine+Learning+%7C+Big+Data" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF66&center=true&vCenter=true&width=620&lines=Building+Autonomous+Agentic+Systems;Architecting+Robust+Data+Pipelines;Deploying+GenAI+%26+Deep+Learning+Models;AI+%7C+Machine+Learning+%7C+Big+Data" alt="Typing SVG" />
+</a>
 
 <p align="center">
-<a href="https://x.com/Ashurai65632254" target="blank"><img src="https://img.shields.io/badge/X_Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" /></a>
-<a href="https://linkedin.com/in/ashwani--rai" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://kaggle.com/ashwani_rai21" target="blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" /></a>
-<a href="https://leetcode.com/u/uiean9rrkb/" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://x.com/Ashurai65632254" target="_blank"><img src="https://img.shields.io/badge/X_Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" /></a>
+  <a href="https://linkedin.com/in/ashwani--rai" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://kaggle.com/ashwani_rai21" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" /></a>
+  <a href="https://leetcode.com/u/uiean9rrkb/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=Ashwani0402&label=SYSTEM+ACCESS+COUNT&color=00E5FF&style=for-the-badge" alt="Profile views" />
 
 ---
 
-### 📡 // SYSTEM DIRECTIVES & CURRENT OPERATIONS
-
 </div>
 
-- 🔭 **Current Focus:** Big Data Analytics, Machine Learning, and Deep Learning (PG-DBDA @ Sunbeam Pune).
-- 🌱 **Actively Learning:** Advanced Python, C++, SQL, MongoDB, DynamoDB, Big Data (Spark, Hadoop), AI/ML (PyTorch), AWS (S3, Redshift), Kafka, Airflow, Docker, Kubernetes, and CI/CD pipelines.
-- 👨‍💻 **Portfolio Hub:** View my complete mission logs at [ashwani0402.github.io](https://ashwani0402.github.io/ashwani-portfolio/)
-- 💬 **Comms Channel:** Open for discussions on **AI, ML, and Big Data Architecture**.
-- 📫 **Direct Ping:** ashwanirai710@gmail.com
+### 📡 // SYSTEM DIRECTIVES & CURRENT OPERATIONS
+
+- 🔭 **Current Focus:** Big Data Analytics, Distributed Computing, and Deep Learning (PG-DBDA @ Sunbeam Pune).
+- 🌱 **Actively Engineering With:** Python, C++, SQL, MongoDB, Spark, Hadoop, Kafka, Airflow, PyTorch, Docker, and AWS (S3, Redshift).
+- 👨‍💻 **Portfolio Hub:** Access complete mission logs at [ashwani0402.github.io](https://ashwani0402.github.io/ashwani-portfolio/).
+- 💬 **Comms Channel:** Open for technical discussions on **AI Agents, Deep Learning, and Distributed Data Architecture**.
+- 📫 **Direct Ping:** [ashwanirai710@gmail.com](mailto:ashwanirai710@gmail.com)
 
 <br>
 
@@ -37,13 +42,18 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
 
+<br>
+
 **Data Core & Cloud Infrastructure**<br>
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CC00?style=for-the-badge&logo=apachehadoop&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+<br>
 
 **AI & Analytics Frameworks**<br>
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -75,7 +85,6 @@
 
 ### 🧬 // CONTRIBUTION ACTIVITY MATRIX
 
-<!-- The animated snake grid will render here once GitHub Actions is configured -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ashwani0402/Ashwani0402/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ashwani0402/Ashwani0402/output/github-contribution-grid-snake.svg">
