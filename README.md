@@ -128,7 +128,7 @@ engineering_focus:
   - Full Stack AI Engineering
   - Agentic AI Workflows
   - LLM Applications
-  - RAG Systems
+  - Retrieval Augmented Generation
   - AI Microservices
   - Backend Engineering
   - Data Engineering
@@ -219,42 +219,55 @@ status:
 
 # 🧰 // FULL STACK TECH ARSENAL
 
-### 🤖 Artificial Intelligence
+## 🤖 Artificial Intelligence
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" alt="AI Stack">
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark"
+     alt="AI Stack">
 </p>
 
 `LLMs` • `RAG` • `Agentic AI` • `LangChain` • `PyTorch` • `XAI` • `Embeddings` • `Vector Search`
 
-### ⚙️ Backend Engineering
+---
+
+## ⚙️ Backend Engineering
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,fastapi,docker,linux&theme=dark" alt="Backend Stack">
+<img src="https://skillicons.dev/icons?i=python,fastapi,docker,linux&theme=dark"
+     alt="Backend Stack">
 </p>
 
 `Python` • `FastAPI` • `REST APIs` • `WebSockets` • `Pydantic` • `Microservices` • `Postman`
 
-### ⚛️ Frontend Engineering
+---
+
+## ⚛️ Frontend Engineering
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind&theme=dark" alt="Frontend Stack">
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind&theme=dark"
+     alt="Frontend Stack">
 </p>
 
 `React` • `JavaScript` • `HTML5` • `CSS3` • `Tailwind CSS` • `Real-Time Dashboards`
 
-### 🗄️ Data Engineering
+---
+
+## 🗄️ Data Engineering
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,kafka&theme=dark" alt="Data Stack">
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,kafka&theme=dark"
+     alt="Data Stack">
 </p>
 
 `PostgreSQL` • `MongoDB` • `Apache Kafka` • `PySpark` • `Airflow` • `ETL/ELT` • `Data Pipelines`
 
-### 🛠️ Developer Ecosystem
+---
+
+## 🛠️ Developer Ecosystem
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker&theme=dark" alt="Developer Tools">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker&theme=dark"
+     alt="Developer Tools">
 </p>
 
 `Git` • `GitHub` • `VS Code` • `Postman` • `Docker` • `Linux`
@@ -272,12 +285,12 @@ status:
 
 **LLM-Augmented Industrial Safety Intelligence**
 
-A production-oriented AI system designed to combine:
+A production-oriented AI system designed around:
 
 * Time-series sensor telemetry
 * Maintenance logs
 * Operational signals
-* LLM-based reasoning
+* LLM reasoning
 * Early-warning intelligence
 
 **Architecture**
@@ -292,10 +305,10 @@ A production-oriented AI system designed to combine:
 
 **Autonomous AI Workflow Engineering**
 
-Focus areas include:
+Focus areas:
 
 * Tool calling
-* Multi-step reasoning workflows
+* Multi-step workflows
 * RAG pipelines
 * API orchestration
 * Structured outputs
@@ -370,7 +383,7 @@ MODULE                                      SCORE        DIAGNOSTIC
 [01] Practical Machine Learning             39 / 40       97.5%
 [02] Python & R Programming                 38 / 40       95.0%
 [03] Data Visualization & Reporting         37 / 40       92.5%
-[04] Advanced Analytics & Statistics       35 / 40       87.5%
+[04] Advanced Analytics & Statistics        35 / 40       87.5%
 [05] Linux & Cloud Computing                35 / 40       87.5%
 [06] Big Data Technologies                  31 / 40       77.5%
 [07] Java Programming                       27 / 40       67.5%
@@ -426,7 +439,7 @@ SYSTEM STATUS >> ACADEMIC TELEMETRY VERIFIED
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Ashwani0402/Ashwani0402/output/github-contribution-grid-snake.svg"
+<img src="https://raw.githubusercontent.com/Ashwani0402/Ashwani0402/output/github-contribution-grid-snake-dark.svg"
   alt="GitHub Contribution Snake">
 
 </div>
@@ -477,7 +490,7 @@ SYSTEM STATUS >> ACADEMIC TELEMETRY VERIFIED
 
 ```text
 ====================================================================
-        [ END OF TRANSMISSION ]
+                    [ END OF TRANSMISSION ]
 ====================================================================
 
 Engineered for intelligent scale.
