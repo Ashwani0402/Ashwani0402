@@ -203,16 +203,16 @@ status:
                   ┌──────────────────────┴─────────────────────┐
                   │                                            │
                   ▼                                            ▼
-       ┌──────────────────────┐                    ┌──────────────────────┐
-       │   AGENTIC AI CORE    │                    │   DATA PLATFORM      │
-       │                      │                    │                      │
-       │ LLMs                 │                    │ PostgreSQL            │
-       │ RAG                  │                    │ Vector Database       │
+       ┌──────────────────────┐                    ┌────────────────────────┐
+       │   AGENTIC AI CORE    │                    │   DATA PLATFORM        │
+       │                      │                    │                        │
+       │ LLMs                 │                    │ PostgreSQL             │
+       │ RAG                  │                    │ Vector Database        │
        │ LangChain            │                    │ Apache Kafka           │
        │ Tool Calling         │                    │ PySpark                │
        │ PyTorch              │                    │ Airflow                │
        │ XAI                  │                    │ Docker                 │
-       └──────────────────────┘                    └──────────────────────┘
+       └──────────────────────┘                    └────────────────────────┘
 ```
 
 ---
@@ -404,7 +404,7 @@ SYSTEM STATUS >> ACADEMIC TELEMETRY VERIFIED
 │                                                             │
 │ PGCP-BDA                                                    │
 │ Sunbeam Institute of Information Technology                 │
-│ Score: 87% | CCEE: 92 | CMCEE: 82                          │
+│ Score: 87% | CCEE: 92 | CMCEE: 82                           │
 │                                                             │
 │ B.Tech — Electronics & Communication Engineering            │
 │ Gyan Ganga Institute of Technology & Science                │
@@ -451,11 +451,11 @@ SYSTEM STATUS >> ACADEMIC TELEMETRY VERIFIED
 ```text
 ┌────────────────────────────────────────────────────────────────┐
 │                                                                │
-│  BUILD SYSTEMS.                                               │
-│  AUTOMATE INTELLIGENCE.                                       │
-│  ENGINEER FOR SCALE.                                          │
+│  BUILD SYSTEMS.                                                │
+│  AUTOMATE INTELLIGENCE.                                        │
+│  ENGINEER FOR SCALE.                                           │
 │                                                                │
-│  AI is not just about models.                                 │
+│  AI is not just about models.                                  │
 │  AI is about building reliable systems around them.            │
 │                                                                │
 └────────────────────────────────────────────────────────────────┘
